@@ -44,5 +44,7 @@ You need to connect all the pipes so water flows through them, by pressing the A
 
 ## Credits
 The Game Concept is based on net and netslide games from the [simon tatham's puzzle collections](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+
 "FP_Aquaeduct" skin from the gp2x colored version created by Fusion Power
+
 "FP_Brixx" skin from the gp2x colored version, which was a small tribute to Sonic 2 "Emerald Hill" Stage and also created by Fusion Power
